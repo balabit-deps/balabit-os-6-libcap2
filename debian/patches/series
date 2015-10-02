@@ -1,0 +1,6 @@
+ldlibs.patch
+setcap-error-message.patch
+include-sys-xattr.patch
+Don-t-hardcode-build-flags.patch
+Syntax-fixes-for-man-pages.patch
+Hide-private-symbols.patch
